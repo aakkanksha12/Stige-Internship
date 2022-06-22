@@ -1,2 +1,2 @@
 # stige-internship
-Projects done during stige
+Projects done during stige internship.
